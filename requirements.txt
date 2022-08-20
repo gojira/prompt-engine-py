@@ -1,1 +1,4 @@
+openai
 prompt-engine-py
+pyyaml
+regex
